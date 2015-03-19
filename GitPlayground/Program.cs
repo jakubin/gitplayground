@@ -10,6 +10,8 @@ namespace GitPlayground
     {
         static void Main(string[] args)
         {
+            var h = new Header();
+            h.Show();
             Console.WriteLine("Test");
         }
     }
