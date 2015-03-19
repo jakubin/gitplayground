@@ -13,6 +13,7 @@ namespace GitPlayground
             var h = new Header();
             h.Show();
             Console.WriteLine("Test");
+            Console.WriteLine("New feature");
         }
     }
 }
